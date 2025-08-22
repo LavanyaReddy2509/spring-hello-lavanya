@@ -9,6 +9,7 @@ A spring boot enabled hello world application
 - Travis CI build and test
 - Continuous deployment to Heroku on success 
 
+
 ## Usage
 
 - Directly using maven
